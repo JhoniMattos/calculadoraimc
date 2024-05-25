@@ -14,6 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Estrutura de dados HTML
 - CSS
+- módulos ES6
 - Funções no Javascript
 - Manipulação da DOM
 - Biblioteca JS Math()
